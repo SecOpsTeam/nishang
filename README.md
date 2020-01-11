@@ -1,3 +1,12 @@
+### IT Security Telegram Channel
+
+1. [Telegram Link ](https://t.me/SecOpsChannel) - Lot other from the world of Security.
+
+### IT Security Mobile App to keep you updated..
+
+2. [AttackIO App ](https://attackio.app/) - The world of information security is now in your palm !!.
+
+
 # Nishang
 
 ### Nishang is a framework and collection of scripts and payloads which enables usage of PowerShell for offensive security, penetration testing and red teaming. Nishang is useful during all phases of penetration testing.
